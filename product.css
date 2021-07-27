@@ -43,7 +43,7 @@
     bottom: 10%;
     left: 10px;
     content: "";
-    background-image: url("/banner.png");
+    background-image: url("./banner.png");
     border-radius: 5px;
   }
   
