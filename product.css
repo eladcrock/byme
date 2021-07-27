@@ -54,6 +54,13 @@
     left: 5%;
     background-color: #e5e5e5;
   }
+.img-wrapper > img {
+    position: relative;
+}
+.fit {
+
+  max-width: 100%;
+}
   
   
   /*
